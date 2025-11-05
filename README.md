@@ -12,5 +12,6 @@ A simple coffee mug product card built with HTML and CSS.
 - CSS
 
 ### Live Demo
-[Add link after deployment]
+https://ujju4444.github.io/coffee-mug-card/
+
 
